@@ -5,21 +5,19 @@
 
 [![DOI](https://jose.theoj.org/papers/10.21105/jose.00021/status.svg)](https://doi.org/10.21105/jose.00021)
 
-**CFD Python**, a.k.a. the **12 steps to Navier-Stokes**, is a practical module for learning the foundations of Computational Fluid Dynamics (CFD) by coding solutions to the basic partial differential equations that describe the physics of fluid flow.
-The module was part of a course taught by [Prof. Lorena Barba](http://lorenabarba.com) between 2009 and 2013 in the Mechanical Engineering department at Boston University (Prof. Barba since moved to the George Washington University).
+**CFD Python** или **12 шагов до уравнений Навье-Стокса** — это практический модуль для изучения основ вычислительной гидродинамики (CFD) путем кодирования решений основных дифференциальных уравнений в частных производных, описывающих физику течения жидкости.
+Модуль был частью курса, который читал [Prof. Lorena Barba](http://lorenabarba.com) с 2009 по 2013 год на факультете машиностроения Бостонского университета (с тех пор профессор Барба перешел в Университет Джорджа Вашингтона).
 
-The module assumes only basic programming knowledge (in any language) and some background in partial differential equations and fluid mechanics. The "steps" were inspired by ideas of Dr. Rio Yokota, who was a post-doc in Prof. Barba's lab until 2011, and the lessons were refined by Prof. Barba and her students over several semesters teaching the CFD course. 
-We wrote this set of Jupyter notebooks in 2013 to teach an intensive two-day course in Mendoza, Argentina.
+Модуль предполагает только базовые знания программирования (на любом языке) и некоторый опыт работы с дифференциальными уравнениями в частных производных и гидромеханикой. «Шаги» были вдохновлены идеями доктора Рио Йокоты, который до 2011 года был постдоком в лаборатории профессора Барбы, а уроки были усовершенствованы профессором Барбой и ее студентами в течение нескольких семестров, преподававших курс CFD.
+Мы написали этот набор блокнотов Jupyter в 2013 году для проведения интенсивного двухдневного курса в Мендосе, Аргентина.
 
-Guiding students through these steps (without skipping any!), they learn many valuable lessons. The incremental nature of the exercises means they get a sense of achievement at the end of each assignment, and they feel they are learning with low effort. As they progress, they naturally practice code re-use and they incrementally learn programming and plotting techniques. As they analyze their results, they learn about numerical diffusion, accuracy and convergence. 
-In about four weeks of a regularly scheduled course, they become moderately proficient programmers and are motivated to start discussing more theoretical matters.
+Проводя учащихся по этим шагам (не пропуская ни одного!), они получают много ценных уроков. Постепенный характер упражнений означает, что они получают чувство достижения в конце каждого задания, и они чувствуют, что учатся с минимальными усилиями. По мере продвижения они, естественно, практикуют повторное использование кода и постепенно изучают методы программирования и построения графиков. Анализируя свои результаты, они узнают о числовой диффузии, точности и сходимости.
 
-## How to use this module
+## Как использовать этот модуль
 
-In a regular-session university course, students can complete the **CFD Python** lessons in 4 to 5 weeks. 
-As an intensive tutorial, the module can be completed in two or three full days, depending on the learner's prior experience. 
-The lessons can also be used for self study. 
-In all cases, learners should follow along the worked examples in each lesson by re-typing the code in a fresh Jupyter notebook, maybe taking original notes as they try things out. 
+На обычном университетском курсе студенты могут пройти уроки **CFD Python** за 4–5 недель.
+В качестве интенсивного учебного модуля модуль может быть пройден за два или три полных дня, в зависимости от предыдущего опыта учащегося. 
+Во всех случаях учащиеся должны следовать рабочим примерам в каждом уроке, повторно набирая код в новом блокноте Jupyter, возможно, делая оригинальные заметки по мере того, как они пробуют что-то.
 
 Lessons
 -------
